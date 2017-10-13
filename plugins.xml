@@ -8,7 +8,7 @@
         <qgis_maximum_version>3.0</qgis_maximum_version>
         <homepage><![CDATA[http://wwww.faizalprbw.github.io]]></homepage>
         <file_name>inasafe.zip</file_name>
-        <!--<icon>/static/packages/survey.png</icon>-->
+        <icon>/static/packages/survey.png</icon>
         <author_name><![CDATA[Inasafe - Extended by Faizalprbw]]></author_name>
         <download_url>http://faizalprbw.github.io/repository/inasafe.zip</download_url>
         <uploaded_by><![CDATA[faizalprbw]]></uploaded_by>
@@ -17,6 +17,6 @@
         <experimental>True</experimental>
         <deprecated>False</deprecated>
         <repository><![CDATA[https://github.com/faizalprbw/inasafe]]></repository>
-        <tags><![CDATA[Inasafe, DAM Break Extend]]></tags>
+        <tags><![CDATA[Inasafe, DAM Break]]></tags>
     </pyqgis_plugin>
 </plugins>
