@@ -6,7 +6,7 @@
         <version>4.2.0</version>
         <qgis_minimum_version>2.0</qgis_minimum_version>
         <qgis_maximum_version>3.0</qgis_maximum_version>
-        <homepage><![CDATA[http://wwww.faizalprbw.github.io]]></homepage>
+        <homepage><![CDATA[https://faizalprbw.github.io]]></homepage>
         <file_name>inasafe-develop.zip</file_name>
         <icon>/static/packages/survey.png</icon>
         <author_name><![CDATA[Inasafe - Extended by Faizalprbw]]></author_name>
