@@ -1,5 +1,5 @@
 <plugins>
-<pyqgis_plugin name="Inasafe" version="1.0.0" plugin_id="35162">
+<pyqgis_plugin name="Inasafe" version="1.0.0" plugin_id="35169">
 <description>
 <![CDATA[
 This plugin creates equidistant line. Used for maritime boundary delimitiation
@@ -26,11 +26,5 @@ http://ivanbusthomi.github.io/repository/EqDistant.zip
 <update_date>2014-06-18T09:43:57.251757</update_date>
 <experimental>True</experimental>
 <deprecated>False</deprecated>
-<repository>
-<![CDATA[ https://github.com/ivanbusthomi/EqDistant ]]>
-</repository>
-<tags>
-<![CDATA[ line boundary,delimitiation,equidistance,UNCLOS ]]>
-</tags>
 </pyqgis_plugin>
 </plugins>
