@@ -6,6 +6,6 @@
         <qgis_minimum_version>2.0</qgis_minimum_version>
         <file_name>inasafe.zip</file_name>
         <author_name>Faizalprbw</author_name>
-        <download_url>http://faizalprbw.github.io/repository/inasafe.zip</download_url>
+        <download_url>https://drive.google.com/open?id=1Ih4uYYzHOpVLHNvdN0BqEz2J6lLl0d-X</download_url>
     </pyqgis_plugin>
 </plugins>
